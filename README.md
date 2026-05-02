@@ -1,8 +1,8 @@
-👤 AI User Persona Architect (UX Research Automation)
+AI User Persona Architect (UX Research Automation)
 
 An agentic AI workflow built for UI/UX Designers to automate the synthesis of qualitative user research into high-fidelity user personas.
 
-🚀 Why This Matters
+Why This Matters
 
 Synthesizing raw interview notes is a major bottleneck in the UX process. This tool uses Agentic AI to:
 
